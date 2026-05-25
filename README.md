@@ -37,4 +37,20 @@ O desenvolvimento deste projeto foi excelente para consolidar conceitos fundamen
 2. **Lógica Condicional Avançada:** Implementação de regras de negócio para impedir compras de valores negativos, zerados ou que ultrapassem o limite disponível.
 3. **Reatividade no DOM:** Capturar a ação de clique do usuário, processar a regra de estoque e refletir a nova quantidade disponível na interface imediatamente.
 
+(Criado pela Alura)
+
 ---
+
+## 🌐 Acesse o projeto
+**🔗 Deploy (GitHub Pages):**
+* [https://rodrigojatoba.github.io/carrinho-de-compras/]
+
+---
+
+## 🤝 Contato
+
+**Rodrigo Jatobá** 
+
+[![github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoJatoba)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-jatobá-9ab11b238/)
+[![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rodrigosouza_al@hotmail.com)

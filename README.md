@@ -1,5 +1,11 @@
 # 🎟️ Ingresso Online
 
+<p align="center">
+  <img src="assets/pagina-ingresso-online.png" alt="Demonstração do Ingresso Oline" width="100%">
+</p>
+
+---
+
 O **Ingresso Online** é uma aplicação web interativa desenvolvida para simular um sistema de bilheteria digital. A plataforma permite ao usuário selecionar o tipo de ingresso desejado (pista, cadeira superior ou cadeira inferior), informar a quantidade e realizar a compra de forma simples, atualizando a disponibilidade dos assentos em tempo real.
 
 Desenvolvido para praticar lógica de programação, manipulação de variáveis, condicionais e atualização dinâmica de elementos com JavaScript.

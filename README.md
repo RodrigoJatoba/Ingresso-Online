@@ -43,7 +43,7 @@ O desenvolvimento deste projeto foi excelente para consolidar conceitos fundamen
 
 ## 🌐 Acesse o projeto
 **🔗 Deploy (GitHub Pages):**
-* [https://rodrigojatoba.github.io/carrinho-de-compras/]
+* [https://rodrigojatoba.github.io/Ingresso-Online/]
 
 ---
 
